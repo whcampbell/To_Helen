@@ -1,6 +1,6 @@
 # To_Helen
 
-### well, anyone with the url can see this, but who's gonna look you know?
+### or How Many Media Can Will Fit in One Correspondence
 
 ```
 I just know for a fact that if I tried to email you all of these 
@@ -17,6 +17,26 @@ This is from a town called Zaanse Schans, the heart of windmill
 industry in old Holland. It's still a major producer of cocoa
 products - the whole town smells like chocolate. They also make
 paint (amsterdam acrylics!?), and I saw a pigment grinding mill
+
+```
+
+![coffee](./coffee.jpeg)
+
+```
+These places are all over Amsterdam. I don't know if you've 
+been, but coffee is not the drug people are going in for. 
+They do still sell coffee though. 
+
+```
+
+![steve](./steve.jpeg)
+
+```
+This is not my work, but was instead drawn by a strange guy who 
+was running a bookstore out of his front room. He also offered
+a beer to anyone who wanted to sit and paint outside. That was 
+a great way to spend an afternoon. "Happy Bookieman" is what he
+called himself. Might be a self portrait - the joint matches. 
 
 ```
 
